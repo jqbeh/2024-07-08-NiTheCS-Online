@@ -3,20 +3,20 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Wollo University, Main Campus"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Boru street, Dessie, Ethiopia"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
-country: "et"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
+venue: "National Institute for Theoretical and Computational Sciences"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "online; Zoom link: https://nithecs-ac-za.zoom.us/j/94426477903?pwd=RVhHMXFqZjhoY0t2Qm01UXN1b3JEZz09, Passcode: 853556"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "11.182102603813176"      # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "39.61725795861342"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "May 31-Jun 01, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2024-05-31      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2024-06-01        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Leykun Getaneh", "Yeshimebet Ali (PhD)", "Enyew Assefa"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Kidanie Aragaw", "Mulugeta Hayelom"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["leyk.get@gmail", "ymaali32@gmail.com", "enyewassefa@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+latitude: "-33.879804294693926"      # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "18.876978277328284"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+humandate: "July 8-12, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "9:00am - 13:00 pm"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+startdate: 2024-07-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2024-07-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Name 1", "Name 2", "Name 3"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Name 1", "Name 2"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["name1@gmail.com", "name3@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+collaborative_notes: https://pad.carpentries.org/2024-07-08-NiTheCS-Online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
