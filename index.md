@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "National Institute for Theoretical and Computational Sciences"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "online; Zoom link: https://nithecs-ac-za.zoom.us/j/94426477903?pwd=RVhHMXFqZjhoY0t2Qm01UXN1b3JEZz09, Passcode: 853556"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "online; Zoom link: https://nithecs-ac-za.zoom.us/j/94426477903?pwd=RVhHMXFqZjhoY0t2Qm01UXN1b3JEZz09](https://nithecs-ac-za.zoom.us/j/91741625666?pwd=kviNOf6Ss0BfFCLO0iiipX52D8XGw1.1, Passcode: 339748"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "-33.879804294693926"      # decimal latitude of workshop venue (use https://www.latlong.net/)
